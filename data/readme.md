@@ -16,4 +16,4 @@ host     |   www.leafly.com
  This will return the json response instead of the HTML response
  
  ## To load this data into mongo
- Since I am using mlab's hosted free tier for this demo, go [here](!https://docs.mlab.com/migrating/#import)
+ Since I am using mlab's hosted free tier for this demo, go [here](https://docs.mlab.com/migrating/#import)
