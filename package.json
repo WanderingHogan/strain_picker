@@ -1,0 +1,19 @@
+{
+  "name": "strain_picker",
+  "version": "0.0.1",
+  "description": "using leafly data, an api/ui to sort strains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanderingHogan/strain_picker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WanderingHogan/strain_picker/issues"
+  },
+  "homepage": "https://github.com/WanderingHogan/strain_picker#readme"
+}
